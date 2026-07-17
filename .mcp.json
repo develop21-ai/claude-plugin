@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Develop21": {
+      "type": "http",
+      "url": "https://mcp.develop21.ai/api/d21-6de08244/mcp"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "develop21",
+  "displayName": "Develop21",
+  "version": "0.10.3",
+  "description": "Career coach and agent toolset - honest job-fit reviews, resumes and cover letters in the employer's language, via the Develop21 connector.",
+  "author": { "name": "Develop21", "url": "https://develop21.ai" },
+  "homepage": "https://develop21.ai",
+  "repository": "https://github.com/develop21-ai/claude-plugin",
+  "keywords": ["career", "jobs", "resume", "cover-letter", "career-coach", "develop21"]
+}
