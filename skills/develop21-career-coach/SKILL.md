@@ -1,6 +1,6 @@
 ---
 name: develop21-career-coach
-description: Use when the user mentions Develop21 by name, wants to test their Develop21 connection, shares a resume or asks to set up their Develop21 career profile, wants to review or update what Develop21 knows about them, or asks about a job they captured or sent with the Develop21 extension. Requires the Develop21 connector.
+description: Use when the user mentions Develop21 by name, wants to test their Develop21 connection, shares a resume or asks to set up their Develop21 career profile, wants to review or update what Develop21 knows about them, wants to plan a job search or run their saved searches, or asks about a job they captured or sent with the Develop21 extension. Requires the Develop21 connector.
 ---
 
 # Develop21 Career Coach

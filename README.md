@@ -1,11 +1,11 @@
 # Develop21 — Claude Plugin
 
-Turn your AI assistant into an honest career coach.
+Develop21 tools help your AI assistant plan and run your job search. Get AI's help to search all the job boards, short-list results, manage your opportunities, create your resume and write applications.
 
 This is the official Claude plugin for [Develop21](https://develop21.ai). It bundles:
 
 - **The Develop21 connector** (`.mcp.json`) — a remote MCP server at `mcp.develop21.ai` that keeps your career profile, saved jobs, and documents, and carries Develop21's method for each task. Connecting creates your free account inside the OAuth flow — no forms, no card.
-- **The career-coach skill** (`skills/develop21-career-coach/`) — teaches Claude when and how to use the connector: profile building, honest job-fit reviews, resumes and cover letters in the employer's language, application tracking.
+- **The career-coach skill** (`skills/develop21-career-coach/`) — teaches Claude when and how to use the connector: profile building, job search planning and execution, honest job-fit reviews, resumes and cover letters in the employer's language, application tracking.
 
 ## Install
 
