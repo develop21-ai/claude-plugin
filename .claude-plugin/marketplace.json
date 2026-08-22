@@ -1,0 +1,17 @@
+{
+  "name": "develop21",
+  "owner": { "name": "Develop21", "url": "https://develop21.ai" },
+  "description": "Develop21 tools help your AI assistant plan and run your job search.",
+  "plugins": [
+    {
+      "name": "develop21",
+      "source": "./",
+      "description": "Develop21 tools help your AI assistant plan and run your job search. Get AI's help to search all the job boards, short-list results, manage your opportunities, create your resume and write applications.",
+      "version": "0.13.0",
+      "author": { "name": "Develop21", "url": "https://develop21.ai" },
+      "homepage": "https://develop21.ai",
+      "license": "MIT",
+      "keywords": ["career", "jobs", "job-search", "resume", "cover-letter"]
+    }
+  ]
+}
