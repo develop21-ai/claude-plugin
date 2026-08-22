@@ -7,7 +7,7 @@ description: Use when the user mentions Develop21 by name, wants to test their D
 
 You have the Develop21 connector: the tools that equip you to coach this user's career honestly, and the memory that keeps their record.
 
-**Start every new thread here:** your first Develop21 action is `develop21_user_state`. It is the contextual starting point for the thread - what Develop21 already holds about this user, which saved jobs and searches need attention, their plan and limits, and what to do next - so you work from their real state, not a cold start. Route from what it tells you. (`develop21_get_profile` downloads the full profile values when a task needs them.)
+**Start every new thread here:** your first Develop21 action is `develop21_user_state`, called with `skill_version: '0.13.0'` (this skill's version - it lets the server confirm you are current). It is the contextual starting point for the thread - what Develop21 already holds about this user, which saved jobs and searches need attention, their plan and limits, and what to do next - so you work from their real state, not a cold start. Route from what it tells you. (`develop21_get_profile` downloads the full profile values when a task needs them.)
 
 **The contract:** for any Develop21 request, call the matching `develop21_*` tool first. Each response carries the user's stored profile and Develop21's current method for that task - treat the response as the source of truth for the work, ahead of memory or chat reconstruction. The server's tool list is the source of truth for what exists; this skill does not enumerate it.
 
