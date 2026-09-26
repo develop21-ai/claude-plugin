@@ -1,16 +1,16 @@
 {
   "name": "develop21",
   "owner": { "name": "Develop21", "url": "https://develop21.ai" },
-  "description": "Develop21 tools help your AI assistant plan and run your job search.",
+  "description": "Jobs from Indeed, LinkedIn & company careers pages: one search, one tracker",
   "plugins": [
     {
       "name": "develop21",
       "source": "./",
-      "description": "Develop21 tools help your AI assistant plan and run your job search. Get AI's help to search all the job boards, short-list results, manage your opportunities, create your resume and write applications.",
-      "version": "0.14.0",
+      "description": "Jobs from Indeed, LinkedIn & company careers pages: one search, one tracker",
+      "version": "0.14.1",
       "author": { "name": "Develop21", "url": "https://develop21.ai" },
       "homepage": "https://develop21.ai",
-      "license": "MIT",
+      "license": "LicenseRef-Develop21-Proprietary",
       "keywords": ["career", "jobs", "job-search", "resume", "cover-letter"]
     }
   ]

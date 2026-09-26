@@ -1,6 +1,18 @@
 # Develop21 — Claude Plugin
 
-Develop21 tools help your AI assistant plan and run your job search. Get AI's help to search all the job boards, short-list results, manage your opportunities, create your resume and write applications.
+Develop21 is a job search planner and application tracker for Claude. With it, Claude searches for jobs across Indeed, LinkedIn, company careers pages and more, gathers new ones into one shortlist, and tracks each job you pursue through applications, interviews and offers.
+
+It starts with your Career Profile. Claude turns your resume or CV and your conversation into a 20-dimension profile: experience highlights, strengths, skills, target roles, career goals, location, remote preferences and more. It loads whenever you use Develop21, so you never start over.
+
+From that profile, Develop21 builds precise searches for the job search connectors you add here: Indeed, JobDataLake, ZipRecruiter, Dice, Aquent and Snagajob. It also builds searches on LinkedIn.com, HiringCafe.com, USAJOBS.gov and Naukri.com that you open and capture with the Develop21 Chrome extension, pulls openings from the careers pages of companies on your watchlist, and takes in forwarded job alerts.
+
+From the shortlist you pick the jobs worth a look and bring in the full description with one click, a link or a paste. Claude then reviews your fit honestly, in both directions: are you right for the job, and is the job right for you?
+
+Every job you take forward stays in your tracker, from application to interviews and offers, or a decision to pass. Your Develop21 Dashboard shows it all in one place. See the demo at https://mcp.develop21.ai
+
+Resumes and cover letters are tailored job by job, in the employer's language and built from your own words. Truthful reframing only, never invented experience. Before you send anything, a free AI-writing check with Pangram shows whether it reads as yours.
+
+Develop21 never applies for you or contacts employers. Your resume, documents and job descriptions are encrypted at rest (AES-256-GCM), and we don't sell your data or use it for ads. Your account is created when you first connect and is free within storage limits; Develop21 Storage at $4.95/month removes them.
 
 This is the official Claude plugin for [Develop21](https://develop21.ai). It bundles:
 
