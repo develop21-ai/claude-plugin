@@ -1,13 +1,13 @@
 {
   "name": "develop21",
   "owner": { "name": "Develop21", "url": "https://develop21.ai" },
-  "description": "Jobs from Indeed, LinkedIn & company careers pages: one search, one tracker",
+  "description": "Jobs from Indeed, LinkedIn & company careers pages: one search, one tracker. Develop21 builds your career profile from your resume, plans and runs your job searches, shortlists what's new, reviews your fit honestly, and tailors your resume and cover letter in your own words.",
   "plugins": [
     {
       "name": "develop21",
       "source": "./",
-      "description": "Jobs from Indeed, LinkedIn & company careers pages: one search, one tracker",
-      "version": "0.14.1",
+      "description": "Jobs from Indeed, LinkedIn & company careers pages: one search, one tracker. Develop21 builds your career profile from your resume, plans and runs your job searches, shortlists what's new, reviews your fit honestly, and tailors your resume and cover letter in your own words.",
+      "version": "0.14.2",
       "author": { "name": "Develop21", "url": "https://develop21.ai" },
       "homepage": "https://develop21.ai",
       "license": "LicenseRef-Develop21-Proprietary",

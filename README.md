@@ -1,4 +1,4 @@
-# Develop21 — Claude Plugin
+# Develop21 Jobs — Claude Plugin
 
 Develop21 is a job search planner and application tracker for Claude. With it, Claude searches for jobs across Indeed, LinkedIn, company careers pages and more, gathers new ones into one shortlist, and tracks each job you pursue through applications, interviews and offers.
 
