@@ -1,12 +1,12 @@
 {
   "name": "develop21",
-  "displayName": "Develop21 Jobs",
-  "version": "0.14.2",
-  "description": "Jobs from Indeed, LinkedIn & company careers pages: one search, one tracker. Develop21 builds your career profile from your resume, plans and runs your job searches, shortlists what's new, reviews your fit honestly, and tailors your resume and cover letter in your own words.",
+  "displayName": "Job Search by Develop21",
+  "version": "0.14.3",
+  "description": "Job search and job tracker for Claude. One search across Indeed, LinkedIn and company careers pages, a shortlist of what's new, honest fit reviews, and resumes and cover letters in your own words.",
   "author": { "name": "Develop21", "url": "https://develop21.ai" },
   "homepage": "https://develop21.ai",
   "icon": "assets/icon.png",
   "privacyPolicyUrl": "https://develop21.ai/privacy",
   "repository": "https://github.com/develop21-ai/claude-plugin",
-  "keywords": ["career", "jobs", "job-search", "job-boards", "linkedin", "resume", "cover-letter", "career-coach", "develop21"]
+  "keywords": ["job-search", "jobs", "job-tracker", "career", "job-boards", "linkedin", "indeed", "resume", "cover-letter", "develop21"]
 }
