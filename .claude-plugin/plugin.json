@@ -1,7 +1,7 @@
 {
   "name": "develop21",
-  "displayName": "Job Search by Develop21",
-  "version": "0.14.3",
+  "displayName": "Develop21 Jobs",
+  "version": "0.14.4",
   "description": "Job search and job tracker for Claude. One search across Indeed, LinkedIn and company careers pages, a shortlist of what's new, honest fit reviews, and resumes and cover letters in your own words.",
   "author": { "name": "Develop21", "url": "https://develop21.ai" },
   "homepage": "https://develop21.ai",
