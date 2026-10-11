@@ -7,7 +7,7 @@
       "name": "develop21",
       "source": "./",
       "description": "Job search and job tracker for Claude. One search across Indeed, LinkedIn and company careers pages, a shortlist of what's new, honest fit reviews, and resumes and cover letters in your own words.",
-      "version": "0.15.0",
+      "version": "0.16.0",
       "author": { "name": "Develop21", "url": "https://develop21.ai" },
       "homepage": "https://develop21.ai",
       "license": "LicenseRef-Develop21-Proprietary",
